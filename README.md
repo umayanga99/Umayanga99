@@ -1,7 +1,5 @@
 # Hi there, I'm Umayanga S A I 👋
 
-![Banner Image](path/to/your/banner/image.jpg) <!-- Add a banner image if you have one -->
-
 ## 🎓 About Me
 
 I'm an undergraduate specializing in Data Science Engineering at the Department of Computer Science and Engineering, Faculty of Engineering, University of Moratuwa.
