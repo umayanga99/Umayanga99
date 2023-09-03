@@ -9,7 +9,7 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 - 🌱 I'm currently exploring React.js, Node.js, and Data Science.
 - 🌐 You can see my portfolio here: [Portfolio](https://umayanga99.github.io/)
 - 📫 Reach out to me at my [LinkedIn](https://www.linkedin.com/in/indunil-umayanga-9b12951bb)
-- ⚡ Fun fact: I love playing chess and reading.
+- ⚡ Fun fact: I love Music.
 
 ---
 
