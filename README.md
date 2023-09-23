@@ -23,7 +23,7 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=umayanga99&show_icons=true&locale=en" alt="umayanga99's GitHub Stats" />
 </p>
 
