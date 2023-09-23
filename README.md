@@ -19,20 +19,21 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 - **Database:** MongoDB, MySQL
 - **Others:** Mobile App Development, AI, Data Science
 
-<table style="border-collapse: collapse;">
+<table>
 <tr>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/python.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/plasticine/32/000000/react.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/html-5--v1.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/css3.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/javascript.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/nodejs.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="32"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/mongodb.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/color/32/mysql-logo.png"/></td>
-<td style="background-color:white; padding:4px;"><img src="https://img.icons8.com/ios-filled/32/artificial-intelligence.png"/></td>
+<td><img src="https://img.icons8.com/color/32/python.png"/></td>
+<td><img src="https://img.icons8.com/plasticine/32/000000/react.png"/></td>
+<td><img src="https://img.icons8.com/color/32/html-5--v1.png"/></td>
+<td><img src="https://img.icons8.com/color/32/css3.png"/></td>
+<td><img src="https://img.icons8.com/color/32/javascript.png"/></td>
+<td><img src="https://img.icons8.com/color/32/nodejs.png"/></td>
+<td><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="32"/></td>
+<td><img src="https://img.icons8.com/color/32/mongodb.png"/></td>
+<td><img src="https://img.icons8.com/color/32/mysql-logo.png"/></td>
+<td><img src="https://img.icons8.com/ios-filled/32/artificial-intelligence.png"/></td>
 </tr>
 </table>
+
 
 
 
