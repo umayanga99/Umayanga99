@@ -13,13 +13,12 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 
 ## 🛠 Skills
 
-- **Languages:** ![Python](https://img.icons8.com/color/452/python.png) Python
-- **Frontend:** ![React.js](https://img.icons8.com/plasticine/100/000000/react.png) React.js, ![HTML](https://img.icons8.com/color/452/html-5--v1.png) HTML, ![CSS](https://img.icons8.com/color/452/css3.png) CSS, ![JavaScript](https://img.icons8.com/color/452/javascript.png) JS
-- **Backend:** ![Node.js](https://img.icons8.com/color/452/nodejs.png) Node.js, ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) FastAPI
-- **Database:** ![MongoDB](https://img.icons8.com/color/452/mongodb.png) MongoDB, ![MySQL](https://img.icons8.com/color/452/mysql-logo.png) MySQL
-- **Others:** ![Mobile App](https://img.icons8.com/color/452/mobile-app-development.png) Mobile App Development, ![AI](https://img.icons8.com/ios-filled/452/artificial-intelligence.png) AI, ![Data Science](https://img.icons8.com/bubbles/452/data.png) Data Science
+- **Languages:** <img src="https://img.icons8.com/color/32/python.png"/> Python
+- **Frontend:** <img src="https://img.icons8.com/plasticine/32/000000/react.png"/> React.js, <img src="https://img.icons8.com/color/32/html-5--v1.png"/> HTML, <img src="https://img.icons8.com/color/32/css3.png"/> CSS, <img src="https://img.icons8.com/color/32/javascript.png"/> JS
+- **Backend:** <img src="https://img.icons8.com/color/32/nodejs.png"/> Node.js, <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="32"/> FastAPI
+- **Database:** <img src="https://img.icons8.com/color/32/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/32/mysql-logo.png"/> MySQL
+- **Others:** <img src="https://img.icons8.com/color/32/mobile-app-development.png"/> Mobile App Development, <img src="https://img.icons8.com/ios-filled/32/artificial-intelligence.png"/> AI, <img src="https://img.icons8.com/bubbles/32/data.png"/> Data Science
 
----
 
 ## 📈 GitHub Stats
 
