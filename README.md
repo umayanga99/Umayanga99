@@ -13,11 +13,11 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 
 ## 🛠 Skills
 
-- **Languages:** Python
-- **Frontend:** React.js, HTML, CSS, JS
-- **Backend:** Node.js, FastAPI
-- **Database:** MongoDB, MySQL
-- **Others:** Mobile App Development, AI, Data Science
+- **Languages:** ![Python](https://img.icons8.com/color/452/python.png) Python
+- **Frontend:** ![React.js](https://img.icons8.com/plasticine/100/000000/react.png) React.js, ![HTML](https://img.icons8.com/color/452/html-5--v1.png) HTML, ![CSS](https://img.icons8.com/color/452/css3.png) CSS, ![JavaScript](https://img.icons8.com/color/452/javascript.png) JS
+- **Backend:** ![Node.js](https://img.icons8.com/color/452/nodejs.png) Node.js, ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) FastAPI
+- **Database:** ![MongoDB](https://img.icons8.com/color/452/mongodb.png) MongoDB, ![MySQL](https://img.icons8.com/color/452/mysql-logo.png) MySQL
+- **Others:** ![Mobile App](https://img.icons8.com/color/452/mobile-app-development.png) Mobile App Development, ![AI](https://img.icons8.com/ios-filled/452/artificial-intelligence.png) AI, ![Data Science](https://img.icons8.com/bubbles/452/data.png) Data Science
 
 ---
 
