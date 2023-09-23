@@ -13,11 +13,13 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 
 ## 🛠 Skills
 
-- **Languages:** <img src="https://img.icons8.com/color/32/python.png"/> Python
-- **Frontend:** <img src="https://img.icons8.com/plasticine/32/000000/react.png"/> React.js, <img src="https://img.icons8.com/color/32/html-5--v1.png"/> HTML, <img src="https://img.icons8.com/color/32/css3.png"/> CSS, <img src="https://img.icons8.com/color/32/javascript.png"/> JS
-- **Backend:** <img src="https://img.icons8.com/color/32/nodejs.png"/> Node.js, <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="32"/> FastAPI
-- **Database:** <img src="https://img.icons8.com/color/32/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/32/mysql-logo.png"/> MySQL
-- **Others:** <img src="https://img.icons8.com/color/32/mobile-app-development.png"/> Mobile App Development, <img src="https://img.icons8.com/ios-filled/32/artificial-intelligence.png"/> AI, <img src="https://img.icons8.com/bubbles/32/data.png"/> Data Science
+- **Languages:** Python
+- **Frontend:** React.js, HTML, CSS, JS
+- **Backend:** Node.js, FastAPI
+- **Database:** MongoDB, MySQL
+- **Others:** Mobile App Development, AI, Data Science
+
+<img src="https://img.icons8.com/color/32/python.png"/> <img src="https://img.icons8.com/plasticine/32/000000/react.png"/> <img src="https://img.icons8.com/color/32/html-5--v1.png"/> <img src="https://img.icons8.com/color/32/css3.png"/> <img src="https://img.icons8.com/color/32/javascript.png"/> <img src="https://img.icons8.com/color/32/nodejs.png"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="32"/> <img src="https://img.icons8.com/color/32/mongodb.png"/> <img src="https://img.icons8.com/color/32/mysql-logo.png"/> <img src="https://img.icons8.com/color/32/mobile-app-development.png"/> <img src="https://img.icons8.com/ios-filled/32/artificial-intelligence.png"/> <img src="https://img.icons8.com/bubbles/32/data.png"/>
 
 
 ## 📈 GitHub Stats
