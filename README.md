@@ -23,10 +23,9 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 
 ## 📈 GitHub Stats
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayanga99&show_icons=true&locale=en" alt="umayanga99" /></p>
-
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=umayanga99&show_icons=true&locale=en" alt="umayanga99's GitHub Stats" />
+</p>
 
 ---
 
@@ -39,7 +38,5 @@ I'm an undergraduate specializing in Data Science Engineering at the Department 
 - 💼 LinkedIn: [indunil-umayanga-9b12951bb](https://www.linkedin.com/in/indunil-umayanga-9b12951bb)
 
 ---
-
-
 
 ⭐️ From [umayanga99](https://github.com/umayanga99)
